@@ -1,0 +1,7 @@
+D:\LaTorre\alumnostarea\alumnostarea\bin\Debug\alumnostarea.exe.config
+D:\LaTorre\alumnostarea\alumnostarea\bin\Debug\alumnostarea.exe
+D:\LaTorre\alumnostarea\alumnostarea\bin\Debug\alumnostarea.pdb
+D:\LaTorre\alumnostarea\alumnostarea\obj\Debug\alumnostarea.csprojAssemblyReference.cache
+D:\LaTorre\alumnostarea\alumnostarea\obj\Debug\alumnostarea.csproj.CoreCompileInputs.cache
+D:\LaTorre\alumnostarea\alumnostarea\obj\Debug\alumnostarea.exe
+D:\LaTorre\alumnostarea\alumnostarea\obj\Debug\alumnostarea.pdb

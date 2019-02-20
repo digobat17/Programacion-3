@@ -63,7 +63,13 @@ namespace alumnostarea
             }
             Console.WriteLine("********************************");
             //5.-promedio de edad por sexo
-            
+            var consulta5 = from alm in persona
+                            group alm by alm.Sexo into sexos
+                            select new { Sexo = sexos.Key, promedio = sexos.Average(pe => pe.Edad) };
+            foreach(var grupoedad in consulta5)
+            {
+                Console.WriteLine("{0} {1}", grupoedad.Sexo, grupoedad.promedio);
+            }
             Console.ReadKey();
 
         }

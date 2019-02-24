@@ -1,0 +1,7 @@
+D:\3er semestre\Programacion3\linqmetodo\linqmetodo\bin\Debug\linqmetodo.exe.config
+D:\3er semestre\Programacion3\linqmetodo\linqmetodo\bin\Debug\linqmetodo.exe
+D:\3er semestre\Programacion3\linqmetodo\linqmetodo\bin\Debug\linqmetodo.pdb
+D:\3er semestre\Programacion3\linqmetodo\linqmetodo\obj\Debug\linqmetodo.csproj.CoreCompileInputs.cache
+D:\3er semestre\Programacion3\linqmetodo\linqmetodo\obj\Debug\linqmetodo.exe
+D:\3er semestre\Programacion3\linqmetodo\linqmetodo\obj\Debug\linqmetodo.pdb
+D:\3er semestre\Programacion3\linqmetodo\linqmetodo\obj\Debug\linqmetodo.csprojResolveAssemblyReference.cache

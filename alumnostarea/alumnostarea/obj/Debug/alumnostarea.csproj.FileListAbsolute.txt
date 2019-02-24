@@ -5,3 +5,9 @@ D:\LaTorre\alumnostarea\alumnostarea\obj\Debug\alumnostarea.csprojAssemblyRefere
 D:\LaTorre\alumnostarea\alumnostarea\obj\Debug\alumnostarea.csproj.CoreCompileInputs.cache
 D:\LaTorre\alumnostarea\alumnostarea\obj\Debug\alumnostarea.exe
 D:\LaTorre\alumnostarea\alumnostarea\obj\Debug\alumnostarea.pdb
+D:\Programacion-3\alumnostarea\alumnostarea\bin\Debug\alumnostarea.exe.config
+D:\Programacion-3\alumnostarea\alumnostarea\bin\Debug\alumnostarea.exe
+D:\Programacion-3\alumnostarea\alumnostarea\bin\Debug\alumnostarea.pdb
+D:\Programacion-3\alumnostarea\alumnostarea\obj\Debug\alumnostarea.csproj.CoreCompileInputs.cache
+D:\Programacion-3\alumnostarea\alumnostarea\obj\Debug\alumnostarea.exe
+D:\Programacion-3\alumnostarea\alumnostarea\obj\Debug\alumnostarea.pdb

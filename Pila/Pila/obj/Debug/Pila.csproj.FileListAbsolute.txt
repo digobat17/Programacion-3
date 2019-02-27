@@ -1,0 +1,7 @@
+D:\LaTorre\Pila\Pila\obj\Debug\Pila.csprojAssemblyReference.cache
+D:\LaTorre\Pila\Pila\obj\Debug\Pila.csproj.CoreCompileInputs.cache
+D:\LaTorre\Pila\Pila\bin\Debug\Pila.exe.config
+D:\LaTorre\Pila\Pila\bin\Debug\Pila.exe
+D:\LaTorre\Pila\Pila\bin\Debug\Pila.pdb
+D:\LaTorre\Pila\Pila\obj\Debug\Pila.exe
+D:\LaTorre\Pila\Pila\obj\Debug\Pila.pdb

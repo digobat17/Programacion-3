@@ -1,0 +1,7 @@
+D:\LaTorre\busquedabinaria\busquedabinaria\bin\Debug\busquedabinaria.exe.config
+D:\LaTorre\busquedabinaria\busquedabinaria\bin\Debug\busquedabinaria.exe
+D:\LaTorre\busquedabinaria\busquedabinaria\bin\Debug\busquedabinaria.pdb
+D:\LaTorre\busquedabinaria\busquedabinaria\obj\Debug\busquedabinaria.csprojAssemblyReference.cache
+D:\LaTorre\busquedabinaria\busquedabinaria\obj\Debug\busquedabinaria.csproj.CoreCompileInputs.cache
+D:\LaTorre\busquedabinaria\busquedabinaria\obj\Debug\busquedabinaria.exe
+D:\LaTorre\busquedabinaria\busquedabinaria\obj\Debug\busquedabinaria.pdb

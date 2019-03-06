@@ -1,0 +1,13 @@
+D:\3er semestre\Programacion3\cola\cola\bin\Debug\cola.exe.config
+D:\3er semestre\Programacion3\cola\cola\bin\Debug\cola.exe
+D:\3er semestre\Programacion3\cola\cola\bin\Debug\cola.pdb
+D:\3er semestre\Programacion3\cola\cola\obj\Debug\cola.csproj.CoreCompileInputs.cache
+D:\3er semestre\Programacion3\cola\cola\obj\Debug\cola.exe
+D:\3er semestre\Programacion3\cola\cola\obj\Debug\cola.pdb
+G:\Nueva carpeta\cola\cola\bin\Debug\cola.exe.config
+G:\Nueva carpeta\cola\cola\bin\Debug\cola.exe
+G:\Nueva carpeta\cola\cola\bin\Debug\cola.pdb
+G:\Nueva carpeta\cola\cola\obj\Debug\cola.csprojAssemblyReference.cache
+G:\Nueva carpeta\cola\cola\obj\Debug\cola.csproj.CoreCompileInputs.cache
+G:\Nueva carpeta\cola\cola\obj\Debug\cola.exe
+G:\Nueva carpeta\cola\cola\obj\Debug\cola.pdb

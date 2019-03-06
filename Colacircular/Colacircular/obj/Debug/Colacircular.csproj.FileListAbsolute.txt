@@ -1,0 +1,7 @@
+D:\LaTorre\Colacircular\Colacircular\bin\Debug\Colacircular.exe.config
+D:\LaTorre\Colacircular\Colacircular\bin\Debug\Colacircular.exe
+D:\LaTorre\Colacircular\Colacircular\bin\Debug\Colacircular.pdb
+D:\LaTorre\Colacircular\Colacircular\obj\Debug\Colacircular.csprojAssemblyReference.cache
+D:\LaTorre\Colacircular\Colacircular\obj\Debug\Colacircular.csproj.CoreCompileInputs.cache
+D:\LaTorre\Colacircular\Colacircular\obj\Debug\Colacircular.exe
+D:\LaTorre\Colacircular\Colacircular\obj\Debug\Colacircular.pdb

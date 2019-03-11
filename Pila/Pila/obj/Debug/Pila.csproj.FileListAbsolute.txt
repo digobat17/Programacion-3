@@ -5,3 +5,9 @@ D:\LaTorre\Pila\Pila\bin\Debug\Pila.exe
 D:\LaTorre\Pila\Pila\bin\Debug\Pila.pdb
 D:\LaTorre\Pila\Pila\obj\Debug\Pila.exe
 D:\LaTorre\Pila\Pila\obj\Debug\Pila.pdb
+D:\Programacion-3\Pila\Pila\bin\Debug\Pila.exe.config
+D:\Programacion-3\Pila\Pila\bin\Debug\Pila.exe
+D:\Programacion-3\Pila\Pila\bin\Debug\Pila.pdb
+D:\Programacion-3\Pila\Pila\obj\Debug\Pila.csproj.CoreCompileInputs.cache
+D:\Programacion-3\Pila\Pila\obj\Debug\Pila.exe
+D:\Programacion-3\Pila\Pila\obj\Debug\Pila.pdb

@@ -1,0 +1,7 @@
+D:\3er semestre\Programacion3\bicola\bicola\bin\Debug\bicola.exe.config
+D:\3er semestre\Programacion3\bicola\bicola\bin\Debug\bicola.exe
+D:\3er semestre\Programacion3\bicola\bicola\bin\Debug\bicola.pdb
+D:\3er semestre\Programacion3\bicola\bicola\obj\Debug\bicola.csprojResolveAssemblyReference.cache
+D:\3er semestre\Programacion3\bicola\bicola\obj\Debug\bicola.csproj.CoreCompileInputs.cache
+D:\3er semestre\Programacion3\bicola\bicola\obj\Debug\bicola.exe
+D:\3er semestre\Programacion3\bicola\bicola\obj\Debug\bicola.pdb

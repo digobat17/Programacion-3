@@ -1,0 +1,7 @@
+D:\LaTorre\recursividad\recursividad\bin\Debug\recursividad.exe.config
+D:\LaTorre\recursividad\recursividad\bin\Debug\recursividad.exe
+D:\LaTorre\recursividad\recursividad\bin\Debug\recursividad.pdb
+D:\LaTorre\recursividad\recursividad\obj\Debug\recursividad.csprojAssemblyReference.cache
+D:\LaTorre\recursividad\recursividad\obj\Debug\recursividad.csproj.CoreCompileInputs.cache
+D:\LaTorre\recursividad\recursividad\obj\Debug\recursividad.exe
+D:\LaTorre\recursividad\recursividad\obj\Debug\recursividad.pdb

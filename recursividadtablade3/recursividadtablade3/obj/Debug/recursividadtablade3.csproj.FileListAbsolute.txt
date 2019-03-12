@@ -1,0 +1,7 @@
+D:\LaTorre\recursividadtablade3\recursividadtablade3\bin\Debug\recursividadtablade3.exe.config
+D:\LaTorre\recursividadtablade3\recursividadtablade3\bin\Debug\recursividadtablade3.exe
+D:\LaTorre\recursividadtablade3\recursividadtablade3\bin\Debug\recursividadtablade3.pdb
+D:\LaTorre\recursividadtablade3\recursividadtablade3\obj\Debug\recursividadtablade3.csprojAssemblyReference.cache
+D:\LaTorre\recursividadtablade3\recursividadtablade3\obj\Debug\recursividadtablade3.csproj.CoreCompileInputs.cache
+D:\LaTorre\recursividadtablade3\recursividadtablade3\obj\Debug\recursividadtablade3.exe
+D:\LaTorre\recursividadtablade3\recursividadtablade3\obj\Debug\recursividadtablade3.pdb

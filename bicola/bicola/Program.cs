@@ -10,6 +10,7 @@ namespace bicola
     {
         static void Main(string[] args)
         {
+            
             Boolean salir = false;
             bicola b = new bicola();
             int opcion = 0;
@@ -54,7 +55,7 @@ namespace bicola
                         Console.ReadKey();
                         break;
                     case 6:
-                        b.mostrar1();
+                        
                         Console.ReadKey();
                         break;
                     case 7:

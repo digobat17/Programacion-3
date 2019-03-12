@@ -45,9 +45,13 @@ namespace bicola
         }
         public void insertarfrente(int valor)
         {
-            if (!Llena1())
+            if (!Llena())
             {
-                tope++;
+                if (frente == 0)
+                    frente = maximo - 1;
+                else
+                    frente++;
+                
                 vector[tope] = valor;
             }
             else
@@ -55,9 +59,9 @@ namespace bicola
         }
         public int eliminarfinal()
         {
-            if (!vacia1())
+            if (!Vacia())
             {
-                tope--;
+                
                 return vector[tope + 1];
             }
             else
@@ -77,14 +81,7 @@ namespace bicola
 
 
         }
-        public void mostrar1()
-        {
-            for (int i = 0; i <= tope; i++)
-            {
-                Console.WriteLine("{0}", vector[i]);
-            }
-
-        }
+       
         public void salir()
         {
             Console.Clear();
@@ -100,13 +97,6 @@ namespace bicola
             return frente == (Cola + 1) % maximo;
 
         }
-        private Boolean Llena1()
-        {
-            return tope == maximo;
-        }
-        private Boolean vacia1()
-        {
-            return tope == -1;
-        }
+       
     }
 }

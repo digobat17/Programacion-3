@@ -5,3 +5,10 @@ D:\3er semestre\Programacion3\bicola\bicola\obj\Debug\bicola.csprojResolveAssemb
 D:\3er semestre\Programacion3\bicola\bicola\obj\Debug\bicola.csproj.CoreCompileInputs.cache
 D:\3er semestre\Programacion3\bicola\bicola\obj\Debug\bicola.exe
 D:\3er semestre\Programacion3\bicola\bicola\obj\Debug\bicola.pdb
+D:\LaTorre\bicola\bicola\bin\Debug\bicola.exe.config
+D:\LaTorre\bicola\bicola\bin\Debug\bicola.exe
+D:\LaTorre\bicola\bicola\bin\Debug\bicola.pdb
+D:\LaTorre\bicola\bicola\obj\Debug\bicola.csprojAssemblyReference.cache
+D:\LaTorre\bicola\bicola\obj\Debug\bicola.csproj.CoreCompileInputs.cache
+D:\LaTorre\bicola\bicola\obj\Debug\bicola.exe
+D:\LaTorre\bicola\bicola\obj\Debug\bicola.pdb

@@ -5,9 +5,3 @@ D:\LaTorre\Colacircular\Colacircular\obj\Debug\Colacircular.csprojAssemblyRefere
 D:\LaTorre\Colacircular\Colacircular\obj\Debug\Colacircular.csproj.CoreCompileInputs.cache
 D:\LaTorre\Colacircular\Colacircular\obj\Debug\Colacircular.exe
 D:\LaTorre\Colacircular\Colacircular\obj\Debug\Colacircular.pdb
-D:\Programacion-3\Colacircular\Colacircular\bin\Debug\Colacircular.exe.config
-D:\Programacion-3\Colacircular\Colacircular\bin\Debug\Colacircular.exe
-D:\Programacion-3\Colacircular\Colacircular\bin\Debug\Colacircular.pdb
-D:\Programacion-3\Colacircular\Colacircular\obj\Debug\Colacircular.csproj.CoreCompileInputs.cache
-D:\Programacion-3\Colacircular\Colacircular\obj\Debug\Colacircular.exe
-D:\Programacion-3\Colacircular\Colacircular\obj\Debug\Colacircular.pdb

@@ -1,0 +1,7 @@
+D:\LaTorre\lista\lista\bin\Debug\lista.exe.config
+D:\LaTorre\lista\lista\bin\Debug\lista.exe
+D:\LaTorre\lista\lista\bin\Debug\lista.pdb
+D:\LaTorre\lista\lista\obj\Debug\lista.csprojAssemblyReference.cache
+D:\LaTorre\lista\lista\obj\Debug\lista.csproj.CoreCompileInputs.cache
+D:\LaTorre\lista\lista\obj\Debug\lista.exe
+D:\LaTorre\lista\lista\obj\Debug\lista.pdb

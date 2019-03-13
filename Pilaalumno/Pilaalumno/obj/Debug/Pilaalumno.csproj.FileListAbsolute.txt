@@ -1,0 +1,7 @@
+D:\LaTorre\Pilaalumno\Pilaalumno\bin\Debug\Pilaalumno.exe.config
+D:\LaTorre\Pilaalumno\Pilaalumno\bin\Debug\Pilaalumno.exe
+D:\LaTorre\Pilaalumno\Pilaalumno\bin\Debug\Pilaalumno.pdb
+D:\LaTorre\Pilaalumno\Pilaalumno\obj\Debug\Pilaalumno.csprojAssemblyReference.cache
+D:\LaTorre\Pilaalumno\Pilaalumno\obj\Debug\Pilaalumno.csproj.CoreCompileInputs.cache
+D:\LaTorre\Pilaalumno\Pilaalumno\obj\Debug\Pilaalumno.exe
+D:\LaTorre\Pilaalumno\Pilaalumno\obj\Debug\Pilaalumno.pdb

@@ -1,0 +1,7 @@
+D:\LaTorre\parcial1\parcial1\bin\Debug\parcial1.exe.config
+D:\LaTorre\parcial1\parcial1\bin\Debug\parcial1.exe
+D:\LaTorre\parcial1\parcial1\bin\Debug\parcial1.pdb
+D:\LaTorre\parcial1\parcial1\obj\Debug\parcial1.csprojAssemblyReference.cache
+D:\LaTorre\parcial1\parcial1\obj\Debug\parcial1.csproj.CoreCompileInputs.cache
+D:\LaTorre\parcial1\parcial1\obj\Debug\parcial1.exe
+D:\LaTorre\parcial1\parcial1\obj\Debug\parcial1.pdb

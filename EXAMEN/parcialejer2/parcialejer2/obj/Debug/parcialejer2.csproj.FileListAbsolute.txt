@@ -1,0 +1,7 @@
+D:\LaTorre\parcialejer2\parcialejer2\obj\Debug\parcialejer2.csprojAssemblyReference.cache
+D:\LaTorre\parcialejer2\parcialejer2\obj\Debug\parcialejer2.csproj.CoreCompileInputs.cache
+D:\LaTorre\parcialejer2\parcialejer2\bin\Debug\parcialejer2.exe.config
+D:\LaTorre\parcialejer2\parcialejer2\bin\Debug\parcialejer2.exe
+D:\LaTorre\parcialejer2\parcialejer2\bin\Debug\parcialejer2.pdb
+D:\LaTorre\parcialejer2\parcialejer2\obj\Debug\parcialejer2.exe
+D:\LaTorre\parcialejer2\parcialejer2\obj\Debug\parcialejer2.pdb

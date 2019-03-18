@@ -4,28 +4,28 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pilaalumno
+namespace pilaalumno
 {
-    class pilaAlumno
+    class pilaalumno<alumno>
     {
         public const int maximo = 15;
-        private int[] vector = new int[maximo];
-        private string[] vector1 = new string[maximo];
-        private int tope = -1;
+        private alumno[] vector = new alumno[maximo];
+        
+        private int  tope = -1;
 
-        public void insertarNombre(string valor)
+        public void insertarNombre(alumno valor)
         {
-            if(!llena())
+            if (!llena())
             {
                 tope++;
-                vector1[tope] = valor;
+                vector[tope] = valor;
             }
             else
             {
                 Console.WriteLine("La pila esta llena");
             }
         }
-        public void insertarEdad(int valor)
+        public void insertarEdad(alumno valor)
         {
             if (!llena())
             {
@@ -35,31 +35,31 @@ namespace Pilaalumno
             else
                 Console.WriteLine("La pila esta llena");
         }
-        public void insertarSexo(string valor)
+        public void insertarSexo(alumno valor)
         {
             if (!llena())
             {
                 tope++;
-                vector1[tope] = valor;
+                vector[tope] = valor;
             }
             else
             {
                 Console.WriteLine("La pila esta llena");
             }
         }
-        public void insertarCarrera(string valor)
+        public void insertarCarrera(alumno valor)
         {
             if (!llena())
             {
                 tope++;
-                vector1[tope] = valor;
+                vector[tope] = valor;
             }
             else
             {
                 Console.WriteLine("La pila esta llena");
             }
         }
-        public int eliminarEdad()
+        public alumno eliminarEdad()
         {
             if (!vacia())
             {
@@ -69,31 +69,31 @@ namespace Pilaalumno
             else
             {
                 Console.WriteLine("La pila esta vacia");
-                return -1;
+                return vector[tope];
             }
         }
-        public string eliminarNombre()
+        public alumno eliminarNombre()
         {
             if (!vacia())
             {
                 tope--;
-                return vector1[tope + 1];
+                return vector[tope + 1];
             }
             else
             {
                 Console.WriteLine("La pila esta vacia");
-                return Convert.ToString(-1);
+                return vector[tope];
             }
         }
         public void mostrar()
         {
-                for (int i = 0; i <= tope; i++)
-                {
-                    Console.WriteLine("{0},{1}", vector[i],vector1[i]);
+            for (int i = 0; i <= tope; i++)
+            {
+                Console.WriteLine("{0}", vector[i]);
 
-                }
-            
-           
+            }
+
+
         }
         private Boolean vacia()
         {

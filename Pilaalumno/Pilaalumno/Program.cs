@@ -4,17 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pilaalumno
+namespace pilaalumno
 {
     class Program
     {
         static void Main(string[] args)
         {
             Boolean salir = false;
-            pilaAlumno p = new pilaAlumno();
+            pilaalumno<string> p = new pilaalumno<string>();
+            pilaalumno<int> pi = new pilaalumno<int>();
             int opcion = 0;
             int edad = 0;
-            string nombre,sexo,carrera;
+            string nombre, sexo, carrera;
             while (salir != true)
             {
                 Console.Clear();
@@ -30,8 +31,8 @@ namespace Pilaalumno
                         nombre = Console.ReadLine();
                         p.insertarNombre(nombre);
                         Console.WriteLine("Insertar Edad");
-                        edad= int.Parse(Console.ReadLine());
-                        p.insertarEdad(edad);
+                        edad = int.Parse(Console.ReadLine());
+                        pi.insertarEdad(edad);
                         Console.WriteLine("Insertar Sexo");
                         sexo = Console.ReadLine();
                         p.insertarSexo(sexo);
@@ -40,11 +41,11 @@ namespace Pilaalumno
                         p.insertarCarrera(carrera);
                         break;
                     case 2:
-                        edad = p.eliminarEdad();
+                        edad = pi.eliminarEdad();
                         nombre = p.eliminarNombre();
                         sexo = p.eliminarNombre();
                         carrera = p.eliminarNombre();
-                        Console.WriteLine("Eliminado Nombre " + nombre );
+                        Console.WriteLine("Eliminado Nombre " + nombre);
                         Console.WriteLine("Eliminado edad " + edad);
                         Console.WriteLine("Eliminado sexo " + sexo);
                         Console.WriteLine("Eliminado carrera " + carrera);
@@ -53,6 +54,7 @@ namespace Pilaalumno
                     case 3:
 
                         p.mostrar();
+                        pi.mostrar();
                         Console.ReadKey();
                         break;
                     case 4:

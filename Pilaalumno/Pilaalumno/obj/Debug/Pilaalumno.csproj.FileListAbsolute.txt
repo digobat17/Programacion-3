@@ -1,7 +1,7 @@
-D:\LaTorre\Pilaalumno\Pilaalumno\bin\Debug\Pilaalumno.exe.config
-D:\LaTorre\Pilaalumno\Pilaalumno\bin\Debug\Pilaalumno.exe
-D:\LaTorre\Pilaalumno\Pilaalumno\bin\Debug\Pilaalumno.pdb
-D:\LaTorre\Pilaalumno\Pilaalumno\obj\Debug\Pilaalumno.csprojAssemblyReference.cache
-D:\LaTorre\Pilaalumno\Pilaalumno\obj\Debug\Pilaalumno.csproj.CoreCompileInputs.cache
-D:\LaTorre\Pilaalumno\Pilaalumno\obj\Debug\Pilaalumno.exe
-D:\LaTorre\Pilaalumno\Pilaalumno\obj\Debug\Pilaalumno.pdb
+D:\3er semestre\Programacion3\pilaalumno\pilaalumno\bin\Debug\pilaalumno.exe.config
+D:\3er semestre\Programacion3\pilaalumno\pilaalumno\bin\Debug\pilaalumno.exe
+D:\3er semestre\Programacion3\pilaalumno\pilaalumno\bin\Debug\pilaalumno.pdb
+D:\3er semestre\Programacion3\pilaalumno\pilaalumno\obj\Debug\pilaalumno.csprojResolveAssemblyReference.cache
+D:\3er semestre\Programacion3\pilaalumno\pilaalumno\obj\Debug\pilaalumno.csproj.CoreCompileInputs.cache
+D:\3er semestre\Programacion3\pilaalumno\pilaalumno\obj\Debug\pilaalumno.exe
+D:\3er semestre\Programacion3\pilaalumno\pilaalumno\obj\Debug\pilaalumno.pdb

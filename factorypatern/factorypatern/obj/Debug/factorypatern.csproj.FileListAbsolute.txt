@@ -1,0 +1,7 @@
+D:\LaTorre\factorypatern\factorypatern\bin\Debug\factorypatern.exe.config
+D:\LaTorre\factorypatern\factorypatern\bin\Debug\factorypatern.exe
+D:\LaTorre\factorypatern\factorypatern\bin\Debug\factorypatern.pdb
+D:\LaTorre\factorypatern\factorypatern\obj\Debug\factorypatern.csprojAssemblyReference.cache
+D:\LaTorre\factorypatern\factorypatern\obj\Debug\factorypatern.csproj.CoreCompileInputs.cache
+D:\LaTorre\factorypatern\factorypatern\obj\Debug\factorypatern.exe
+D:\LaTorre\factorypatern\factorypatern\obj\Debug\factorypatern.pdb

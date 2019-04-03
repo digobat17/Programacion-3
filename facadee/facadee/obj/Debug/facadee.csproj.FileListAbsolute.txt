@@ -1,0 +1,7 @@
+D:\LaTorre\facadee\facadee\bin\Debug\facadee.exe.config
+D:\LaTorre\facadee\facadee\bin\Debug\facadee.exe
+D:\LaTorre\facadee\facadee\bin\Debug\facadee.pdb
+D:\LaTorre\facadee\facadee\obj\Debug\facadee.csprojAssemblyReference.cache
+D:\LaTorre\facadee\facadee\obj\Debug\facadee.csproj.CoreCompileInputs.cache
+D:\LaTorre\facadee\facadee\obj\Debug\facadee.exe
+D:\LaTorre\facadee\facadee\obj\Debug\facadee.pdb

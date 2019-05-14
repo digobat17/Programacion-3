@@ -1,0 +1,7 @@
+C:\Users\WINDOWS 10\source\repos\tareapolaca\tareapolaca\bin\Debug\tareapolaca.exe.config
+C:\Users\WINDOWS 10\source\repos\tareapolaca\tareapolaca\bin\Debug\tareapolaca.exe
+C:\Users\WINDOWS 10\source\repos\tareapolaca\tareapolaca\bin\Debug\tareapolaca.pdb
+C:\Users\WINDOWS 10\source\repos\tareapolaca\tareapolaca\obj\Debug\tareapolaca.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS 10\source\repos\tareapolaca\tareapolaca\obj\Debug\tareapolaca.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\source\repos\tareapolaca\tareapolaca\obj\Debug\tareapolaca.exe
+C:\Users\WINDOWS 10\source\repos\tareapolaca\tareapolaca\obj\Debug\tareapolaca.pdb

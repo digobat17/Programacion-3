@@ -1,0 +1,14 @@
+c:\users\windows 10\source\repos\polacayuda\polacayuda\bin\Debug\polacayuda.exe.config
+c:\users\windows 10\source\repos\polacayuda\polacayuda\bin\Debug\polacayuda.exe
+c:\users\windows 10\source\repos\polacayuda\polacayuda\bin\Debug\polacayuda.pdb
+c:\users\windows 10\source\repos\polacayuda\polacayuda\obj\Debug\polacayuda.csprojResolveAssemblyReference.cache
+c:\users\windows 10\source\repos\polacayuda\polacayuda\obj\Debug\polacayuda.csproj.CoreCompileInputs.cache
+c:\users\windows 10\source\repos\polacayuda\polacayuda\obj\Debug\polacayuda.exe
+c:\users\windows 10\source\repos\polacayuda\polacayuda\obj\Debug\polacayuda.pdb
+D:\3er semestre\polacayuda\polacayuda\bin\Debug\polacayuda.exe.config
+D:\3er semestre\polacayuda\polacayuda\bin\Debug\polacayuda.exe
+D:\3er semestre\polacayuda\polacayuda\bin\Debug\polacayuda.pdb
+D:\3er semestre\polacayuda\polacayuda\obj\Debug\polacayuda.csprojResolveAssemblyReference.cache
+D:\3er semestre\polacayuda\polacayuda\obj\Debug\polacayuda.csproj.CoreCompileInputs.cache
+D:\3er semestre\polacayuda\polacayuda\obj\Debug\polacayuda.exe
+D:\3er semestre\polacayuda\polacayuda\obj\Debug\polacayuda.pdb

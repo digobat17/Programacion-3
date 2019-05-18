@@ -1,0 +1,10 @@
+D:\LaTorre\Parcial2Examen\AhorcadoCliente\AhorcadoCliente\obj\Debug\AhorcadoCliente.csprojAssemblyReference.cache
+D:\LaTorre\Parcial2Examen\AhorcadoCliente\AhorcadoCliente\obj\Debug\AhorcadoCliente.Form1.resources
+D:\LaTorre\Parcial2Examen\AhorcadoCliente\AhorcadoCliente\obj\Debug\AhorcadoCliente.Properties.Resources.resources
+D:\LaTorre\Parcial2Examen\AhorcadoCliente\AhorcadoCliente\obj\Debug\AhorcadoCliente.csproj.GenerateResource.cache
+D:\LaTorre\Parcial2Examen\AhorcadoCliente\AhorcadoCliente\obj\Debug\AhorcadoCliente.csproj.CoreCompileInputs.cache
+D:\LaTorre\Parcial2Examen\AhorcadoCliente\AhorcadoCliente\bin\Debug\AhorcadoCliente.exe.config
+D:\LaTorre\Parcial2Examen\AhorcadoCliente\AhorcadoCliente\bin\Debug\AhorcadoCliente.exe
+D:\LaTorre\Parcial2Examen\AhorcadoCliente\AhorcadoCliente\bin\Debug\AhorcadoCliente.pdb
+D:\LaTorre\Parcial2Examen\AhorcadoCliente\AhorcadoCliente\obj\Debug\AhorcadoCliente.exe
+D:\LaTorre\Parcial2Examen\AhorcadoCliente\AhorcadoCliente\obj\Debug\AhorcadoCliente.pdb

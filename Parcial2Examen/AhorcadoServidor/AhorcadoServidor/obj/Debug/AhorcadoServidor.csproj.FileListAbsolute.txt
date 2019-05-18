@@ -1,0 +1,7 @@
+D:\LaTorre\Parcial2Examen\AhorcadoServidor\AhorcadoServidor\bin\Debug\AhorcadoServidor.exe.config
+D:\LaTorre\Parcial2Examen\AhorcadoServidor\AhorcadoServidor\bin\Debug\AhorcadoServidor.exe
+D:\LaTorre\Parcial2Examen\AhorcadoServidor\AhorcadoServidor\bin\Debug\AhorcadoServidor.pdb
+D:\LaTorre\Parcial2Examen\AhorcadoServidor\AhorcadoServidor\obj\Debug\AhorcadoServidor.csprojAssemblyReference.cache
+D:\LaTorre\Parcial2Examen\AhorcadoServidor\AhorcadoServidor\obj\Debug\AhorcadoServidor.csproj.CoreCompileInputs.cache
+D:\LaTorre\Parcial2Examen\AhorcadoServidor\AhorcadoServidor\obj\Debug\AhorcadoServidor.exe
+D:\LaTorre\Parcial2Examen\AhorcadoServidor\AhorcadoServidor\obj\Debug\AhorcadoServidor.pdb

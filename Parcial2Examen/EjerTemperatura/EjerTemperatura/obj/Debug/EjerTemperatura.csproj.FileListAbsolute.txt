@@ -1,0 +1,10 @@
+D:\LaTorre\Parcial2Examen\EjerTemperatura\EjerTemperatura\bin\Debug\EjerTemperatura.exe.config
+D:\LaTorre\Parcial2Examen\EjerTemperatura\EjerTemperatura\bin\Debug\EjerTemperatura.exe
+D:\LaTorre\Parcial2Examen\EjerTemperatura\EjerTemperatura\bin\Debug\EjerTemperatura.pdb
+D:\LaTorre\Parcial2Examen\EjerTemperatura\EjerTemperatura\obj\Debug\EjerTemperatura.csprojAssemblyReference.cache
+D:\LaTorre\Parcial2Examen\EjerTemperatura\EjerTemperatura\obj\Debug\EjerTemperatura.Form1.resources
+D:\LaTorre\Parcial2Examen\EjerTemperatura\EjerTemperatura\obj\Debug\EjerTemperatura.Properties.Resources.resources
+D:\LaTorre\Parcial2Examen\EjerTemperatura\EjerTemperatura\obj\Debug\EjerTemperatura.csproj.GenerateResource.cache
+D:\LaTorre\Parcial2Examen\EjerTemperatura\EjerTemperatura\obj\Debug\EjerTemperatura.csproj.CoreCompileInputs.cache
+D:\LaTorre\Parcial2Examen\EjerTemperatura\EjerTemperatura\obj\Debug\EjerTemperatura.exe
+D:\LaTorre\Parcial2Examen\EjerTemperatura\EjerTemperatura\obj\Debug\EjerTemperatura.pdb

@@ -1,0 +1,7 @@
+D:\LaTorre\Parcial2Examen\socketsParcial2\socketsParcial2\obj\Debug\socketsParcial2.csprojAssemblyReference.cache
+D:\LaTorre\Parcial2Examen\socketsParcial2\socketsParcial2\obj\Debug\socketsParcial2.csproj.CoreCompileInputs.cache
+D:\LaTorre\Parcial2Examen\socketsParcial2\socketsParcial2\bin\Debug\socketsParcial2.exe.config
+D:\LaTorre\Parcial2Examen\socketsParcial2\socketsParcial2\bin\Debug\socketsParcial2.exe
+D:\LaTorre\Parcial2Examen\socketsParcial2\socketsParcial2\bin\Debug\socketsParcial2.pdb
+D:\LaTorre\Parcial2Examen\socketsParcial2\socketsParcial2\obj\Debug\socketsParcial2.exe
+D:\LaTorre\Parcial2Examen\socketsParcial2\socketsParcial2\obj\Debug\socketsParcial2.pdb

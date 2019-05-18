@@ -5,3 +5,10 @@ D:\3er semestre\Programacion3\pilaalumno\pilaalumno\obj\Debug\pilaalumno.csprojR
 D:\3er semestre\Programacion3\pilaalumno\pilaalumno\obj\Debug\pilaalumno.csproj.CoreCompileInputs.cache
 D:\3er semestre\Programacion3\pilaalumno\pilaalumno\obj\Debug\pilaalumno.exe
 D:\3er semestre\Programacion3\pilaalumno\pilaalumno\obj\Debug\pilaalumno.pdb
+C:\Users\Estudiante\Programacion-3\anterior\Pilaalumno\pilaalumno\bin\Debug\pilaalumno.exe.config
+C:\Users\Estudiante\Programacion-3\anterior\Pilaalumno\pilaalumno\bin\Debug\pilaalumno.exe
+C:\Users\Estudiante\Programacion-3\anterior\Pilaalumno\pilaalumno\bin\Debug\pilaalumno.pdb
+C:\Users\Estudiante\Programacion-3\anterior\Pilaalumno\pilaalumno\obj\Debug\pilaalumno.csprojAssemblyReference.cache
+C:\Users\Estudiante\Programacion-3\anterior\Pilaalumno\pilaalumno\obj\Debug\pilaalumno.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Programacion-3\anterior\Pilaalumno\pilaalumno\obj\Debug\pilaalumno.exe
+C:\Users\Estudiante\Programacion-3\anterior\Pilaalumno\pilaalumno\obj\Debug\pilaalumno.pdb

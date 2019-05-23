@@ -11,11 +11,11 @@ namespace OperacionesVectoresCONSOLE
         static void Main(string[] args)
         {
             Vector v = new Vector();
-            Console.WriteLine("Suma de dos vectores");
+            Console.WriteLine("Inicio");
             v.cargar();
             v.Sumar();
             v.Restar();
-             
+            v.Multiplicar();
             
         }
     }

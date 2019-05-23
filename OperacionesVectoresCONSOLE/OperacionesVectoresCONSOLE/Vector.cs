@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace OperacionesVectoresCONSOLE
 {
     class Vector
@@ -12,12 +13,14 @@ namespace OperacionesVectoresCONSOLE
        private double[] b;
        private double[] c;
         private double[] r;
+        private double[] mul;
 
 
         public double[] A { get => a; set => a = value; }
         public double[] B { get => b; set => b = value; }
         public double[] C { get => c; set => c = value; }
         public double[] R { get => r; set => r = value; }
+        public double[] Mul { get => mul; set => mul = value; }
 
         /*public Vector(double[] su , double[] re)
 {
@@ -26,14 +29,16 @@ b = re;
 }*/
         public void cargar()
         {
-            Console.Write("Ingrese la longitud de los vectores a sumar: ");
+            Console.Write("Ingrese la longitud de los vectores : ");
             string linea;
             linea = Console.ReadLine();
             int n = int.Parse(linea);
+          
             A = new double[n];
             B = new double[n];
             C = new double[n];
             R = new double[n];
+            Mul = new double[n];
             Console.WriteLine("Ingresando valores al vector A");
             for (int i = 0; i < A.Length; i++)
             {
@@ -76,18 +81,20 @@ b = re;
             }
             Console.ReadLine();
         }
-       /* public void Multiplicar(int x,int y)
+      public void Multiplicar()
         {
-            C = new double[x,y];
-            for(int i=0;i<x;i++)
+            double suma = 0;
+            Console.WriteLine("La multiplicacion de vectores es de :");
+            for (int i = 0; i < A.Length; i++)
             {
-                for(int j =0;j<y;j++)
-                {
-                    C[x, y] = int.Parse(Console.ReadLine());
-                }
+                Mul[i] = A[i] * B[i];
+                double x = Mul[i];
+                Console.WriteLine("Multiplicacion = {0}",x);
+               suma = suma + x;
+                Console.WriteLine("Sumatoria = " + suma);
             }
-
-
-        }*/
+            
+            Console.ReadLine();
+        }
     }
 }

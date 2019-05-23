@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace OperacionesVectoresCONSOLE
 {
+    //Hice con FrancoAdamczyk
     class Vector
     {
        private double[] a;
@@ -22,11 +23,6 @@ namespace OperacionesVectoresCONSOLE
         public double[] R { get => r; set => r = value; }
         public double[] Mul { get => mul; set => mul = value; }
 
-        /*public Vector(double[] su , double[] re)
-{
-a = su;
-b = re;
-}*/
         public void cargar()
         {
             Console.Write("Ingrese la longitud de los vectores : ");

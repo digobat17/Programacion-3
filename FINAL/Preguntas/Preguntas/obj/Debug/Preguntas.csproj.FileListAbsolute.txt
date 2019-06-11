@@ -1,0 +1,7 @@
+D:\LaTorre\FINAL\Preguntas\Preguntas\obj\Debug\Preguntas.csprojAssemblyReference.cache
+D:\LaTorre\FINAL\Preguntas\Preguntas\obj\Debug\Preguntas.csproj.CoreCompileInputs.cache
+D:\LaTorre\FINAL\Preguntas\Preguntas\bin\Debug\Preguntas.exe.config
+D:\LaTorre\FINAL\Preguntas\Preguntas\bin\Debug\Preguntas.exe
+D:\LaTorre\FINAL\Preguntas\Preguntas\bin\Debug\Preguntas.pdb
+D:\LaTorre\FINAL\Preguntas\Preguntas\obj\Debug\Preguntas.exe
+D:\LaTorre\FINAL\Preguntas\Preguntas\obj\Debug\Preguntas.pdb

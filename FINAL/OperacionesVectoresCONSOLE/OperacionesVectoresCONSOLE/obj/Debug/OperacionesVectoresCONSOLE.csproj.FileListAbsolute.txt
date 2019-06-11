@@ -1,0 +1,7 @@
+D:\LaTorre\FINAL\OperacionesVectoresCONSOLE\OperacionesVectoresCONSOLE\bin\Debug\OperacionesVectoresCONSOLE.exe.config
+D:\LaTorre\FINAL\OperacionesVectoresCONSOLE\OperacionesVectoresCONSOLE\bin\Debug\OperacionesVectoresCONSOLE.exe
+D:\LaTorre\FINAL\OperacionesVectoresCONSOLE\OperacionesVectoresCONSOLE\bin\Debug\OperacionesVectoresCONSOLE.pdb
+D:\LaTorre\FINAL\OperacionesVectoresCONSOLE\OperacionesVectoresCONSOLE\obj\Debug\OperacionesVectoresCONSOLE.csprojAssemblyReference.cache
+D:\LaTorre\FINAL\OperacionesVectoresCONSOLE\OperacionesVectoresCONSOLE\obj\Debug\OperacionesVectoresCONSOLE.csproj.CoreCompileInputs.cache
+D:\LaTorre\FINAL\OperacionesVectoresCONSOLE\OperacionesVectoresCONSOLE\obj\Debug\OperacionesVectoresCONSOLE.exe
+D:\LaTorre\FINAL\OperacionesVectoresCONSOLE\OperacionesVectoresCONSOLE\obj\Debug\OperacionesVectoresCONSOLE.pdb

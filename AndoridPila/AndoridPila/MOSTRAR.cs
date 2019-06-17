@@ -47,6 +47,19 @@ namespace AndoridPila
 
                 }
             }
+            /*panel
+             int arriba=0;
+             panel1.Controls.CLear();
+             string[] are = pi.mostrar();
+             for(int i =0;i<are.lenght;i++)
+             {
+             Label lbl = new Label();
+             lbl.Top=arriba;
+             arriba += 25;
+             lbl.text=are[i];
+             panel1.Controls.add(lbl);
+             }
+             */
         }
     }
 }

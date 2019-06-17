@@ -480,11 +480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3er semestre\\finalprogra\\AndoridPila\\AndoridPila\\AndoridPila.csproj",
+      "projectUniqueName": "D:\\Programacion-3\\AndoridPila\\AndoridPila\\AndoridPila.csproj",
       "projectName": "AndoridPila",
-      "projectPath": "D:\\3er semestre\\finalprogra\\AndoridPila\\AndoridPila\\AndoridPila.csproj",
+      "projectPath": "D:\\Programacion-3\\AndoridPila\\AndoridPila\\AndoridPila.csproj",
       "packagesPath": "C:\\Users\\WINDOWS 10\\.nuget\\packages\\",
-      "outputPath": "D:\\3er semestre\\finalprogra\\AndoridPila\\AndoridPila\\obj\\",
+      "outputPath": "D:\\Programacion-3\\AndoridPila\\AndoridPila\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

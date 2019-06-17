@@ -1,0 +1,10 @@
+D:\LaTorre\FINAL\PROGRAMACIONfinal\PROGRAMACIONfinal\bin\Debug\PROGRAMACIONfinal.exe.config
+D:\LaTorre\FINAL\PROGRAMACIONfinal\PROGRAMACIONfinal\bin\Debug\PROGRAMACIONfinal.exe
+D:\LaTorre\FINAL\PROGRAMACIONfinal\PROGRAMACIONfinal\bin\Debug\PROGRAMACIONfinal.pdb
+D:\LaTorre\FINAL\PROGRAMACIONfinal\PROGRAMACIONfinal\obj\Debug\PROGRAMACIONfinal.csprojAssemblyReference.cache
+D:\LaTorre\FINAL\PROGRAMACIONfinal\PROGRAMACIONfinal\obj\Debug\PROGRAMACIONfinal.Form1.resources
+D:\LaTorre\FINAL\PROGRAMACIONfinal\PROGRAMACIONfinal\obj\Debug\PROGRAMACIONfinal.Properties.Resources.resources
+D:\LaTorre\FINAL\PROGRAMACIONfinal\PROGRAMACIONfinal\obj\Debug\PROGRAMACIONfinal.csproj.GenerateResource.cache
+D:\LaTorre\FINAL\PROGRAMACIONfinal\PROGRAMACIONfinal\obj\Debug\PROGRAMACIONfinal.csproj.CoreCompileInputs.cache
+D:\LaTorre\FINAL\PROGRAMACIONfinal\PROGRAMACIONfinal\obj\Debug\PROGRAMACIONfinal.exe
+D:\LaTorre\FINAL\PROGRAMACIONfinal\PROGRAMACIONfinal\obj\Debug\PROGRAMACIONfinal.pdb

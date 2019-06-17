@@ -475,20 +475,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\WINDOWS 10\\.nuget\\packages\\": {}
+    "C:\\Users\\Estudiante\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programacion-3\\AndoridPila\\AndoridPila\\AndoridPila.csproj",
+      "projectUniqueName": "C:\\Users\\Estudiante\\Programacion-3\\AndoridPila\\AndoridPila\\AndoridPila.csproj",
       "projectName": "AndoridPila",
-      "projectPath": "D:\\Programacion-3\\AndoridPila\\AndoridPila\\AndoridPila.csproj",
-      "packagesPath": "C:\\Users\\WINDOWS 10\\.nuget\\packages\\",
-      "outputPath": "D:\\Programacion-3\\AndoridPila\\AndoridPila\\obj\\",
+      "projectPath": "C:\\Users\\Estudiante\\Programacion-3\\AndoridPila\\AndoridPila\\AndoridPila.csproj",
+      "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Estudiante\\Programacion-3\\AndoridPila\\AndoridPila\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\WINDOWS 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

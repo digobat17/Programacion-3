@@ -475,20 +475,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\WINDOWS 10\\.nuget\\packages\\": {}
+    "C:\\Users\\Estudiante\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3er semestre\\finalprogra\\PilaXamarin\\PilaXamarin\\PilaXamarin.csproj",
+      "projectUniqueName": "C:\\Users\\Estudiante\\Programacion-3\\PilaXamarin\\PilaXamarin\\PilaXamarin.csproj",
       "projectName": "PilaXamarin",
-      "projectPath": "D:\\3er semestre\\finalprogra\\PilaXamarin\\PilaXamarin\\PilaXamarin.csproj",
-      "packagesPath": "C:\\Users\\WINDOWS 10\\.nuget\\packages\\",
-      "outputPath": "D:\\3er semestre\\finalprogra\\PilaXamarin\\PilaXamarin\\obj\\",
+      "projectPath": "C:\\Users\\Estudiante\\Programacion-3\\PilaXamarin\\PilaXamarin\\PilaXamarin.csproj",
+      "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Estudiante\\Programacion-3\\PilaXamarin\\PilaXamarin\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\WINDOWS 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
